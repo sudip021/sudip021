@@ -15,11 +15,8 @@
 <a href="https://www.linkedin.com/in/sudip-haldar-b20129392/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/sudip021" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
 
@@ -36,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sudip021&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip021&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -45,7 +42,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sudip021&theme=algolia&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -53,7 +50,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudip021&theme=tokyo-night"/>
 </p>
 
 ---
