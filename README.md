@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 B.Tech CSE (AI & ML) Student  
-🚀 Passionate about AI, Cybersecurity, Full-Stack Development & Innovation  
-💡 Building projects that combine technology, creativity, and real-world impact  
-🌱 Currently learning DSA, Machine Learning, Cloud & Advanced Development  
+🚀 Aspiring AI Engineer & Full-Stack Developer  
+💡 Passionate about building real-world tech projects that solve problems  
+🌱 Currently learning DSA, AI/ML, Cloud Computing & Modern Web Development  
 
 ---
 
@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/sudip-haldar-b20129392/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
 <a href="https://github.com/sudip021" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
@@ -25,7 +26,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,nodejs,mongodb,mysql,git,github,firebase,linux,vscode,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,nodejs,mongodb,mysql,git,github,firebase,linux,vscode" />
 </p>
 
 ---
@@ -34,6 +35,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sudip021&show_icons=true&theme=tokyonight" height="170"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip021&theme=tokyonight" height="170"/>
 </p>
 
@@ -56,16 +58,21 @@
 ---
 
 ## ⚡ Current Focus
-- Building real-world AI projects
-- Improving problem-solving skills
-- Learning Cybersecurity & Cloud
+
+- Building strong real-world projects
+- Improving problem-solving & DSA
+- Learning AI, Cybersecurity & Cloud
 - Growing as a Full-Stack Developer
-- Creating impactful tech products
+- Contributing consistently on GitHub
 
 ---
 
-## ✨ Quote
+## ✨ Developer Mindset
 
-> "Consistency beats motivation."
+> "Build. Learn. Improve. Repeat."
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudip021&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
